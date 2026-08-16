@@ -66,5 +66,5 @@
 ## Как пользоваться?
 
 1. Создай новый проект в Claude.
-2. Открой файл **[instagram-carousels.md,]((https://github.com/BermanRoman/prompt-instagram-carousels/blob/main/instagram-carousels.md)** скопируй его содержимое кнопкой «Copy» и вставь в поле «Инструкции» проекта.
+2. Открой файл **[instagram-carousels.md,](https://github.com/BermanRoman/prompt-instagram-carousels/blob/main/instagram-carousels.md)** скопируй его содержимое кнопкой «Copy» и вставь в поле «Инструкции» проекта.
 3. Напиши в чате проекта сообщение: _«Начинаем работу по созданию Instagram-каруселей, согласно заложенной в тебя инструкции»_
